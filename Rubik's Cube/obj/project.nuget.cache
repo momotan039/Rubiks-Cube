@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e/k75nUWaxhSZ85oH2Ka37sKtFAXTwxf3IDvfI7X0EjyrahmSL+wqYsgta/WeZALh6URtHye9pt2gIRip/N20Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\momotan\\Desktop\\Rubik's Cube\\Rubik's Cube\\Rubik's Cube.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\momotan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bf262c41-5e51-42b6-8789-4afa6521a870": {
+      "ProjectGuid": "bf262c41-5e51-42b6-8789-4afa6521a870",
+      "DisplayName": "Rubik's Cube",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
